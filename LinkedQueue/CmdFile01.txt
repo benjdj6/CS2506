@@ -1,0 +1,8 @@
+push	17
+push	8
+push	9
+show	
+quit	
+pop	
+show	
+quit	
